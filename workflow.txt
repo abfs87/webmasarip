@@ -1,0 +1,17 @@
+Persiapan Aset
+> Gambar2/foto/icon (Selesai Editing)
+> Download Bootstrap
+> Download Jquery
+
+1. Blank html5 template body
+2. Buat tag Header
+3. Buat link untuk logo
+4. Buat tag navigasi, copykan link logo tadi ke dalam nav dengan menambahkan atribut id "menu-icon", hal ini dilakukan untuk jika misalkan browser diperkecil maka menu web dapat tampil dalam keadaan halaman web responsive
+5. buat unordered list dan list didalamnya berisi dengan link menu web page, copy sejumlah menu yang akan ditampilkan
+6. selanjutnya diluar tag header buat div untuk dokumen, didalamnya diisi dengan div id "content"
+7. lalu buat slider dengan membuat tag unordered list > list berisi gambar-gambar untuk slider
+8. buat tag section dibawah div slider buat section untuk diisi dengan informasi-informasi.
+
+Progress
+
+> page profil

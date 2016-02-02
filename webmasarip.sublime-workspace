@@ -1,0 +1,1425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hei",
+				"height	(style.css)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"cl",
+				"clear	(index.html)"
+			],
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mwi",
+				"max-width"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"fo",
+				"footer	<footer>"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"total",
+				"total_items"
+			],
+			[
+				"cart",
+				"cart_contents"
+			],
+			[
+				"cart_",
+				"cart_contents"
+			],
+			[
+				"cat",
+				"cat_query"
+			],
+			[
+				"pro",
+				"product_name	(display_products.php)"
+			],
+			[
+				"produ",
+				"product_price	(display_products.php)"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"get_all",
+				"get_all_categories	(shop_model.php)"
+			],
+			[
+				"Shop",
+				"Shop_model"
+			],
+			[
+				"Sho",
+				"Shop_model"
+			],
+			[
+				"nav",
+				"navigation	(display_product.php)"
+			],
+			[
+				"opt",
+				"option_value"
+			],
+			[
+				"option",
+				"option_name"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"end",
+				"endforeach〔keyword〕"
+			],
+			[
+				"endf",
+				"endforeach〔keyword〕"
+			],
+			[
+				"orde",
+				"order_data"
+			],
+			[
+				"db_ins",
+				"db_insert	CI - Active Record DB Insert"
+			],
+			[
+				"db_inse",
+				"db_insert_id	CI - Active Record DB Last Inserted Id"
+			],
+			[
+				"cus",
+				"cust_data"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"catr",
+				"cat_url_name"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"db",
+				"db_get	CI - Active Record DB Get"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"base",
+				"base_url	(header.php)"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"inter",
+				"interval〔variable〕"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"CI_Con",
+				"CI_Controller〔class〕"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"baccl",
+				"background-color"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"pri",
+				"print〔keyword〕"
+			],
+			[
+				"user",
+				"user_model"
+			],
+			[
+				"prin",
+				"printf〔function〕"
+			],
+			[
+				"si",
+				"site_url"
+			],
+			[
+				"sessd",
+				"session_destroy"
+			],
+			[
+				"loa",
+				"load_view	CI - Load View"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"arra",
+				"array_items"
+			],
+			[
+				"sess",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"form_va",
+				"form_validation	CI - Form Validation Rule"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"inp",
+				"inputs	input - submit"
+			],
+			[
+				"for",
+				"form_open	CI - Form Open"
+			],
+			[
+				"CI_CON",
+				"CI_Controller〔class〕"
+			],
+			[
+				"CI_Co",
+				"CI_Config〔class〕"
+			],
+			[
+				"CI_M",
+				"CI_Model〔class〕"
+			],
+			[
+				"dele",
+				"delete_agenda"
+			],
+			[
+				"da",
+				"daftaragenda"
+			],
+			[
+				"up",
+				"update	(Agenda_model.php)"
+			],
+			[
+				"daf",
+				"daftaragenda"
+			],
+			[
+				"select",
+				"select_by_id	(Agenda_model.php)"
+			],
+			[
+				"sele",
+				"select_all"
+			],
+			[
+				"site_",
+				"site_url	(Daftaragenda.php)"
+			],
+			[
+				"fi",
+				"fieldset	<fieldset>"
+			],
+			[
+				"ins",
+				"insert	(Agenda_model.php)"
+			],
+			[
+				"agenda",
+				"agenda_model"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"daft",
+				"daftar_agenda"
+			],
+			[
+				"age",
+				"agenda_model"
+			],
+			[
+				"_co",
+				"__construct"
+			],
+			[
+				"date",
+				"date_modified"
+			],
+			[
+				"pi",
+				"pilih_hitung"
+			],
+			[
+				"an",
+				"angka1"
+			],
+			[
+				"cal",
+				"calculator	(form_hitung.php)"
+			],
+			[
+				"hasi",
+				"hasil_hitung	(Calculator.php)"
+			],
+			[
+				"ang",
+				"angka2	(Welcome.php)"
+			],
+			[
+				"pili",
+				"pilih_hitung	(Calculator.php)"
+			],
+			[
+				"hasil",
+				"hasil_hitung"
+			],
+			[
+				"int",
+				"inputt	input - text"
+			],
+			[
+				"site",
+				"site_url〔function〕"
+			],
+			[
+				"load_",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"ex",
+				"extends	(Welcome.php)"
+			],
+			[
+				"ci",
+				"ci_base	CI - URL Helper - base_url"
+			],
+			[
+				"angk",
+				"angka1"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"in",
+				"inputt	input - tel"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"conn",
+				"connect	(dtbs.php)"
+			],
+			[
+				"qu",
+				"query($sql	(index.php)"
+			],
+			[
+				"conne",
+				"connectorPDO"
+			],
+			[
+				"connec",
+				"connectdulu"
+			],
+			[
+				"fe",
+				"fetchAll	(dtbs.php)"
+			],
+			[
+				"dt",
+				"dtbs	(dtbs.php)"
+			],
+			[
+				"tr",
+				"tr	<tr>"
+			],
+			[
+				"conf",
+				"confPDO"
+			],
+			[
+				"sel",
+				"self"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "profil.html",
+			"settings":
+			{
+				"buffer_size": 5581,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 3579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "workflow.txt",
+			"settings":
+			{
+				"buffer_size": 814,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"new f",
+				"File: New Folder Relative to Current View"
+			]
+		],
+		"width": 831.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"7+2",
+			"exit();",
+			"exit()",
+			"exit",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abfs87/Workspace/Web/webmasarip/webmasarip"
+	],
+	"file_history":
+	[
+		"/home/abfs87/Workspace/Web/webmasarip/webmasarip/css/style.css",
+		"/home/abfs87/Workspace/Web/webmasarip/webmasarip.sublime-project",
+		"/home/abfs87/Workspace/Web/webmasarip/workflow.txt",
+		"/home/abfs87/Workspace/Web/webmasarip/js/jquery.blueberry.js",
+		"/home/abfs87/Workspace/Web/webmasarip/css/blueberry.css",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/nav/top_nav.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/shop/user_details.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/shop/display_cart.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/controllers/shop.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/shop/display_products.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/models/shop_model.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/shop/display_product.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/language/indonesia/id_admin_lang.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/config/config.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/config/routes.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/common/header.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/application/views/common/footer.php",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/assets/js/script.js",
+		"/home/abfs87/Workspace/Web/ci_blueprint/ekomes/assets/css/style.css",
+		"/home/abfs87/Workspace/Web/prototype/application/views/common/footer.php",
+		"/home/abfs87/Workspace/Web/prototype/assets/js/script.js",
+		"/home/abfs87/Workspace/Web/prototype/assets/css/style.css",
+		"/home/abfs87/Workspace/Web/prototype/application/views/common/header.php",
+		"/home/abfs87/Workspace/Web/prototype/application/controllers/Travel.php",
+		"/home/abfs87/Workspace/Web/prototype/application/config/routes.php",
+		"/home/abfs87/Workspace/Web/prototype/application/views/common/sidebar.php",
+		"/home/abfs87/Workspace/Web/prototype/application/controllers/Welcome.php",
+		"/home/abfs87/Workspace/Web/prototype/application/config/config.php",
+		"/home/abfs87/Workspace/Web/prototype/application/config/database.php",
+		"/home/abfs87/Workspace/Web/prototype/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/prototype/application/core/MY_Loader.php",
+		"/home/abfs87/Workspace/Web/prototype/application/controllers/create.php",
+		"/home/abfs87/Workspace/Web/prototype/application/language/indonesia/id_admin_lang.php",
+		"/home/abfs87/Workspace/Web/prototype/application/core/MY_Controller.php",
+		"/home/abfs87/Workspace/Web/prototype/application/models/urls_model.php",
+		"/home/abfs87/Workspace/Web/prototype/application/views/create/create.php",
+		"/home/abfs87/Workspace/Web/prototype/application/views/nav/top_nav.php",
+		"/home/abfs87/Workspace/Web/prototype/index.php",
+		"/home/abfs87/Workspace/Web/prototype/application/controllers/go.php",
+		"/home/abfs87/Workspace/Web/prototype/application/views/header.php",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup2/js/script.js",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup2/css/style.css",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup2/index.html",
+		"/home/abfs87/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/css/style.css",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/index.html",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/account/form_login.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/account/success_page.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/models/account/User_model.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/controllers/Account.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/daftaragenda/daftar_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/daftaragenda/form_edit_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/config/config.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/form_edit_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/form_tambah_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/daftar_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/daftaragenda/Agenda_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/account/User_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Daftaragenda.php",
+		"/home/abfs87/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/daftaragenda/agenda_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/hasil_hitung.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/form_hitung.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Calculator.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Welcome.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/untitled",
+		"/home/abfs87/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/biodata.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/welcome_message.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/eco.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/config.php",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/css/bootstrap.min.css",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/js/script.js",
+		"/home/abfs87/Workspace/Web/login_template/core/conn.ini",
+		"/home/abfs87/Workspace/Web/login_template/class/cnfg.php",
+		"/home/abfs87/Workspace/Web/login_template/class/dtbs.php",
+		"/home/abfs87/Workspace/Web/login_template/index.php",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/abfs87/Workspace/Web/kurs/index.php",
+		"/home/abfs87/Workspace/Web/kurs/dtbs.php",
+		"/home/abfs87/Workspace/Web/web_sipp/incl/dtbs.php",
+		"/home/abfs87/Workspace/Web/web_sipp/tes_path.php",
+		"/home/abfs87/Workspace/Web/web_sipp/pblc/index.php",
+		"/home/abfs87/Workspace/Web/web_sipp/pblc/css/styl.css",
+		"/home/abfs87/Workspace/Web/web_sipp/core/koneksi.ini",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/models/Post.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/config.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/controllers/Posts.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/views/post.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/views/post_index.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/.htaccess",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/.htaccess",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/database.php",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.html",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.js",
+		"/home/abfs87/Workspace/Web/app_tasklist/appStorage.js",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.css",
+		"/home/abfs87/Workspace/Web/psd2html/app.html",
+		"/home/abfs87/Workspace/Web/psd2html/app.css",
+		"/home/abfs87/Workspace/Web/psd2html/app.js",
+		"/home/abfs87/Workspace/Web/psd2html/app/js",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/login.blade.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/welcome.blade.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/config/database.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/app/Http/routes.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/tes.blade.php",
+		"/home/abfs87/Workspace/Web/laravel/app/Http/Controllers/Controller.php",
+		"/home/abfs87/Workspace/Web/laravel/resources/views/welcome.blade.php",
+		"/home/abfs87/Workspace/Web/laravel/app/Http/routes.php",
+		"/home/abfs87/Workspace/Web/tes_sm/myapp/app.js",
+		"/home/abfs87/Workspace/Web/laravel/.env",
+		"/home/abfs87/Workspace/Web/project2/pblc/index.php",
+		"/home/abfs87/Workspace/Web/project2/pblc/js/script.js",
+		"/home/abfs87/Workspace/Web/GroundUp/htmlexercise.html",
+		"/home/abfs87/Workspace/Web/template_crud/index.php",
+		"/home/abfs87/Workspace/Web/template_crud/clss/DB.class.php",
+		"/home/abfs87/Workspace/Web/template_crud/core/sambungan.ini",
+		"/home/abfs87/Workspace/Web/startoverPHP/array/array-part1/part5-1.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/clss/chklogin.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/pblc/dummytes.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"/home/abfs87/Workspace/Web/ci_blueprint/ekomes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"h3",
+			"3",
+			"H",
+			"{\n",
+			"div",
+			"\"></",
+			"<br/>",
+			"”",
+			" charset=\"utf-8\" async defer",
+			"	$(window).load(function(){\n			$('.blueberry').blueberry();\n		});",
+			"h1",
+			"carousel-slide",
+			"alt=\"driverarmada",
+			"class=\"current\"",
+			"title=\"Depan\"",
+			"update",
+			"display_product",
+			"(); ",
+			"display_product",
+			"segment(",
+			"uri->segment",
+			"segment",
+			"se",
+			"save_cart_to_database",
+			"segment",
+			"3\n",
+			"';\n",
+			";\n",
+			"action",
+			"next",
+			"#slide-banner",
+			"data-target=\"#slide-banner\" data-slide-to=",
+			"left",
+			"<?",
+			"base",
+			"position",
+			"%;",
+			"ci_travel",
+			"username",
+			"ci_travel",
+			"# code...",
+			"ctrl+space",
+			"ctrl+/",
+			"input",
+			"<br/>",
+			"\">\n",
+			";\n",
+			"5",
+			"10",
+			"5",
+			"{\n",
+			"title=",
+			"title=\"Gmail",
+			"<script src=\"js/script.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+			"private",
+			"query",
+			");\n",
+			"space",
+			"profesi_guest",
+			"id",
+			"base_url",
+			"index.php",
+			"save",
+			"taskList",
+			"TaskList",
+			"taskList",
+			"this.localStorageSupported = (('localStorage' in window) &&\nwindow['localStorage']);",
+			">\n",
+			"delete",
+			"tools",
+			"back",
+			"}\n",
+			"min.",
+			"</a>",
+			"'];\n",
+			"'];;",
+			"$ini",
+			"$this->",
+			"dbconn",
+			"self:",
+			"	\n",
+			"['',]",
+			"m_currency_id",
+			"confPDO",
+			"a",
+			"modalKu",
+			"nama",
+			"nim",
+			"autofocus",
+			"im",
+			"form",
+			"idkurs",
+			"/*!",
+			"config",
+			"$config",
+			"']);",
+			"       ",
+			"        ",
+			"          ",
+			"         ",
+			"        ",
+			");\n",
+			"();\n",
+			"	// if (null == $id) {\n	// 	$db = new dtbs();\n	// 	$dbop = $db->connect();\n	// 	$sql = \"SELECT * FROM currency WHERE m_currency_id = ?\";\n	// 	$q = $dbop->prepare($sql);\n	// 	$q->bind_param(\"s\", $id);\n	// 	$q->execute();\n	// 	$data = $q->fetch_assoc();\n	// }",
+			");\n",
+			"idkurs",
+			"codeKurs",
+			"buka",
+			"idkurs",
+			"ID Kurs",
+			"idError",
+			"ID Kurs",
+			"idkurs",
+			"idError",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"alt+/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Brackets Dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "profil.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4776,
+								4776
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Brackets Dark (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2193,
+								2193
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Brackets Dark (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4093.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "workflow.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Brackets Dark (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "",
+	"project": "webmasarip.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s",
+				"css/style.css"
+			],
+			[
+				"pro",
+				"profil.html"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"agenda",
+				"application/models/daftaragenda/agenda_model.php"
+			],
+			[
+				"daf",
+				"application/controllers/Daftaragenda.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"form",
+				"application/views/form_hitung.php"
+			],
+			[
+				"welc",
+				"application/controllers/Welcome.php"
+			],
+			[
+				"contro",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/Web/travel_xyz/travel_xyz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
