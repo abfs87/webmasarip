@@ -211,6 +211,40 @@ ul.drivercar li {
 	width: 300px;
 }
 
+#layanan {
+	margin: 40px 0;
+}
+
+#detail {
+	margin: 0 auto;
+	max-width: 1140px;
+	text-align: center;
+}
+
+.pelayanan {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	clear: both;
+}
+
+.pelayanan article {
+	padding-right:0;
+}
+
+.pelayanan aside {
+	text-align: justify;
+	padding-left: 0;
+}
+
+aside button {
+	float: right;
+	border: 2px solid #88C5ED;
+	height: 20px;
+	width: 60px;
+	background-color: #FFFFFF;
+}
+
 #cvtag {
 	margin: 0 auto;
 	width: 60%;
